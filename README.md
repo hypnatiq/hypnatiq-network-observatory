@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33848335/README.md)
 # Hypnatiq Network Observatory
 
 Public beta documentation and interface preview for HypNO, a Windows network-observation project by Hanzley Philippeaux under the Hypnatiq identity.
