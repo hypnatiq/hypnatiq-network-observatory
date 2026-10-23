@@ -1,42 +1,42 @@
 # Hypnatiq Network Observatory
 
-Public beta documentation and interface preview for HypNO, a Windows network-observation project by Hanzley Philippeaux under the Hypnatiq identity.
+Public documentation and interface preview for HypNO, a Windows network-observation project I created under my Hypnatiq identity.
 
-**Live project site:** https://hyp-no.netlify.app/
+**Live project:** https://hyp-no.netlify.app/
 
-HypNO is short for Hypnatiq Network Observatory. The project is designed to help a user connect a Windows network event to the responsible application, destination context, retained evidence, and a reviewable next step. The public site explains the product model and shows a current development interface.
+This project started with a practical question: what is my computer communicating with, which process caused it, what evidence do I have, and what should I do next? HypNO connects those steps in one workflow so a user can review what happened before making a decision.
 
-## What this repository contains
+## What is included
 
 - Public product and architecture documentation
-- Product model, capabilities, safety boundaries, and comparison pages
-- Seven interface screenshots selected because they do not expose machine paths, network addresses, local application inventory, or firewall-rule details
-- Clear separation between observed state, optional information sources, proposed actions, and verified outcomes
+- An explanation of the investigation workflow and safety boundaries
+- Comparison and capability pages
+- Seven selected interface screenshots that do not expose machine paths, network addresses, installed application details, or firewall-rule information
+- Clear labels for what was observed, what information is optional, what action is proposed, and what was actually verified
 
-## What this repository does not contain
+## What is not included
 
 - The private Windows application or service source code
 - Credentials, API keys, tokens, customer data, or captured personal traffic
-- A claim that every interface element is release-ready or active on an installed system
-- A promise that a clean antivirus or reputation result proves a file or destination is safe
+- A claim that every interface element is active in the installed application
+- A claim that an antivirus or reputation result proves a file or destination is safe
 
 ## Current status
 
-The live website is a public beta-information site. The included screenshots show a safe subset of the HypNO 0.80 development interface. They do not by themselves confirm live monitoring, online checks, firewall changes, installed-version parity, or production readiness.
+The live site is a public beta-information site. The screenshots show a selected portion of the HypNO 0.80 development interface. They demonstrate the direction and workflow, but they do not prove live monitoring, online checks, firewall changes, installed-version parity, or production readiness.
 
-The public brand is **Hypnatiq Network Observatory**. The Windows application is called **HypNO**. These names describe the same project at different surfaces and should not be treated as separate products.
+The public project name is **Hypnatiq Network Observatory**. The Windows application is called **HypNO**. They are two names for the same project, not separate products.
 
-## Review path
+## Where to start
 
-1. Open the live site at `https://hyp-no.netlify.app/` for the public website.
-2. Read `docs/architecture.md` for the evidence flow.
-3. Read `docs/privacy-safety-and-limitations.md` for product boundaries.
-4. Review `screenshots/README.md` and the seven selected screenshots.
-5. Read `docs/publication-review.md` before adding any source or capture.
-6. Follow `docs/deployment.md` only if a future website-source release is separately approved.
+1. Open the [live project site](https://hyp-no.netlify.app/).
+2. Read [`docs/architecture.md`](docs/architecture.md) to follow the investigation flow.
+3. Read [`docs/privacy-safety-and-limitations.md`](docs/privacy-safety-and-limitations.md) for the limits and safety model.
+4. Review [`screenshots/README.md`](screenshots/README.md) and the seven selected screenshots.
+5. Read [`docs/publication-review.md`](docs/publication-review.md) before adding source material or captures.
 
-## Portfolio boundary
+## Portfolio context
 
-This is a personal software and documentation project. It demonstrates product thinking, Windows endpoint research, technical writing, safety design, and evidence handling. It is not represented as prior employer production ownership.
+This is a personal software and documentation project. It shows how I approach Windows endpoint research, technical writing, product decisions, safety, and evidence review. It is not presented as prior employer production ownership.
 
-Copyright 2026 Hanzley Philippeaux. See `LICENSE.md` and `SECURITY.md`.
+Copyright 2026 Hanzley Philippeaux. See [`LICENSE.md`](LICENSE.md) and [`SECURITY.md`](SECURITY.md).
