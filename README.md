@@ -2,8 +2,6 @@
 
 HypNO is a personal Windows endpoint and network-investigation project that demonstrates how I approach Windows endpoint research, network troubleshooting, evidence validation, application risk, controlled testing, and technical documentation.
 
-**Live project:** [https://hyp-no.netlify.app/](https://hyp-no.netlify.app/)
-
 ## Why I created HypNO
 
 The project began while I was learning how applications communicate through inbound and outbound network connections on Windows.
@@ -93,17 +91,16 @@ This public repository explains the problem, product direction, safety model, an
 
 ## Current status
 
-The live site is a public beta-information site. Its selected screenshots show the HypNO 0.80 development interface and the direction of the product. They do not prove that every screen is active in an installed build, that every connection can be attributed, that an online lookup proves safety, or that the application is production-ready.
+The repository includes selected screenshots of the HypNO 0.80 development interface and the direction of the product. They do not prove that every screen is active in an installed build, that every connection can be attributed, that an online lookup proves safety, or that the application is production-ready.
 
 The public project name is **Hypnatiq Network Observatory**. The Windows application is called **HypNO**. They are two names for the same project, not separate products.
 
 ## Where to start
 
-1. Open the [live project site](https://hyp-no.netlify.app/).
-2. Read [docs/architecture.md](https://github.com/hypnatiq/hypnatiq-network-observatory/blob/main/docs/architecture.md) to follow the evidence flow.
-3. Read [docs/privacy-safety-and-limitations.md](https://github.com/hypnatiq/hypnatiq-network-observatory/blob/main/docs/privacy-safety-and-limitations.md) for the limits and safety model.
-4. Review [screenshots/README.md](https://github.com/hypnatiq/hypnatiq-network-observatory/blob/main/screenshots/README.md) and the seven selected screenshots.
-5. Read [docs/publication-review.md](https://github.com/hypnatiq/hypnatiq-network-observatory/blob/main/docs/publication-review.md) before adding source material or captures.
+1. Read [docs/architecture.md](https://github.com/hypnatiq/hypnatiq-network-observatory/blob/main/docs/architecture.md) to follow the evidence flow.
+2. Read [docs/privacy-safety-and-limitations.md](https://github.com/hypnatiq/hypnatiq-network-observatory/blob/main/docs/privacy-safety-and-limitations.md) for the limits and safety model.
+3. Review [screenshots/README.md](https://github.com/hypnatiq/hypnatiq-network-observatory/blob/main/screenshots/README.md) and the seven selected screenshots.
+4. Read [docs/publication-review.md](https://github.com/hypnatiq/hypnatiq-network-observatory/blob/main/docs/publication-review.md) before adding source material or captures.
 
 ## Portfolio context
 
