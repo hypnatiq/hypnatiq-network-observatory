@@ -1,8 +1,8 @@
 # Hypnatiq Network Observatory
 
-HypNO is a personal Windows endpoint and network-investigation project that demonstrates how I approach Windows endpoint research, network troubleshooting, evidence validation, application risk, controlled testing, and technical documentation.
+HypNO is my Windows endpoint and network-investigation project. I built it to connect unfamiliar network activity to the responsible Windows application, keep the evidence together, and explain what should be reviewed before a firewall decision is made.
 
-## What this demonstrates professionally
+## What I worked on
 
 This project brings together the parts of endpoint and network support that I want to keep building on: process attribution, TCP and UDP review, packet evidence, DNS and destination context, publisher and signature checks, Windows Firewall decisions, repeatable testing, and clear escalation notes.
 
@@ -108,9 +108,9 @@ The public project name is **Hypnatiq Network Observatory**. The Windows applica
 3. Review [screenshots/README.md](https://github.com/hypnatiq/hypnatiq-network-observatory/blob/main/screenshots/README.md) and the seven selected screenshots.
 4. Read [docs/publication-review.md](https://github.com/hypnatiq/hypnatiq-network-observatory/blob/main/docs/publication-review.md) before adding source material or captures.
 
-## Portfolio context
+## What this project says about my work
 
-This project represents how I investigate unfamiliar technical problems, validate evidence, document uncertainty, test safely, and convert research into a repeatable support workflow.
+This project shows how I investigate an unfamiliar technical problem, validate the evidence, document uncertainty, test safely, and turn the result into a repeatable support workflow.
 
 The public repository documents the product direction, investigation model, safety boundaries, and selected interface examples. Private source code, internal decision logic, provider credentials, and sensitive machine evidence are intentionally excluded.
 

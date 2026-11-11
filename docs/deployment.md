@@ -1,12 +1,12 @@
 # Repository and Website Relationship
 
-## Current boundary
+## Current relationship
 
-This GitHub package is documentation-first. It intentionally excludes the full Netlify source and machine-specific screenshots. Uploading this repository does not deploy or replace the live site.
+This public GitHub repository is documentation-first. It intentionally excludes the full Netlify source and machine-specific screenshots. Updating this repository does not deploy or replace the live site.
 
 ## GitHub
 
-Create `hypnatiq/hypnatiq-network-observatory` as a separate repository. Keep the website field linked to `https://hyp-no.netlify.app/`. Do not enable GitHub Pages unless a separate, sanitized static package is prepared.
+The public repository is `hypnatiq/hypnatiq-network-observatory`. Keep any GitHub website link pointed to `https://hyp-no.netlify.app/`. Do not enable GitHub Pages unless a separate, sanitized static package is prepared and reviewed.
 
 ## Future Netlify change
 
