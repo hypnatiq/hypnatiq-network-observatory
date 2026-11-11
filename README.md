@@ -2,6 +2,12 @@
 
 HypNO is a personal Windows endpoint and network-investigation project that demonstrates how I approach Windows endpoint research, network troubleshooting, evidence validation, application risk, controlled testing, and technical documentation.
 
+## What this demonstrates professionally
+
+This project brings together the parts of endpoint and network support that I want to keep building on: process attribution, TCP and UDP review, packet evidence, DNS and destination context, publisher and signature checks, Windows Firewall decisions, repeatable testing, and clear escalation notes.
+
+I am not presenting HypNO as employer production ownership or as a replacement for antivirus. I am showing how I take an unfamiliar connection, organize the evidence, state what remains unknown, and document the next safe action.
+
 ## Why I created HypNO
 
 The project began while I was learning how applications communicate through inbound and outbound network connections on Windows.
