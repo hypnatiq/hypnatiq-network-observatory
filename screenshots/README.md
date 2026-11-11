@@ -1,6 +1,6 @@
 # Selected Interface Screenshots
 
-These seven screenshots were selected from the HypNO 0.80 development build because they explain the product workflow without exposing local application paths, installed-software inventory, network addresses, firewall rule scopes, credentials, or captured personal traffic.
+These seven screenshots were selected from the HypNO 0.80 development build because they explain the product workflow without exposing local application paths, installed-software inventory, network addresses, firewall rule coverage, credentials, or captured personal traffic.
 
 ## Included
 
