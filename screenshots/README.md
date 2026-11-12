@@ -16,6 +16,7 @@ These seven screenshots were selected from the HypNO 0.80 development build beca
 
 Other development screenshots showed machine-specific paths, local software, public or private network addresses, firewall rules, or device-state evidence. They remain private and must not be added to the public repository without a new sanitized capture and review.
 
-## Claim boundary
+## What the screenshots show
 
 The screenshots show interface design and a controlled development state. They do not prove that every function is installed, active, release-ready, or validated on another system.
+
