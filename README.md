@@ -6,7 +6,7 @@ HypNO is my Windows endpoint and network-investigation project. I built it to co
 
 This project brings together the parts of endpoint and network support that I want to keep building on: process attribution, TCP and UDP review, packet evidence, DNS and destination context, publisher and signature checks, Windows Firewall decisions, repeatable testing, and clear escalation notes.
 
-I am not presenting HypNO as employer production ownership or as a replacement for antivirus. I am showing how I take an unfamiliar connection, organize the evidence, state what remains unknown, and document the next safe action.
+I use HypNO to take an unfamiliar connection, organize the evidence, state what remains unknown, and document the next safe action.
 
 ## Why I created HypNO
 
@@ -39,7 +39,7 @@ Optional integrations add context from sources such as:
 
 HypNO keeps locally observed evidence separate from third-party provider reports. It uses the combined evidence to help classify activity as expected, suspicious, known malicious, or unresolved when the available evidence supports that conclusion.
 
-The workflow is designed to help a user understand what happened before making a reviewed Allow or Block decision through Windows Firewall.
+The workflow helps a user understand what happened before making a reviewed Allow or Block decision. After the user decides, HypNO writes a reversible rule to Windows Defender Firewall with Advanced Security and records the change for later review or recovery.
 
 ## What HypNO helps a user do
 
@@ -49,7 +49,7 @@ The workflow is designed to help a user understand what happened before making a
 - Add optional context from VirusTotal, AbuseIPDB, GreyNoise, and ThreatFox
 - Separate confirmed local facts from third-party provider results
 - Classify activity only as far as the available evidence supports
-- Review an Allow or Block decision before a reversible Windows Firewall rule is written
+- Review an Allow or Block decision, then write the selected rule to Windows Defender Firewall with Advanced Security
 - Record what changed, whether the response worked, and how to recover it
 
 ## Relationship to antivirus
@@ -114,6 +114,7 @@ This project shows how I investigate an unfamiliar technical problem, validate t
 
 The public repository documents the product direction, investigation model, safety boundaries, and selected interface examples. Private source code, internal decision logic, provider credentials, and sensitive machine evidence are intentionally excluded.
 
-It is not presented as prior employer production ownership.
+I use the project to demonstrate my own application design, network-investigation, testing, and technical-documentation work.
 
 Copyright 2026 Hanzley Philippeaux. See [LICENSE.md](https://github.com/hypnatiq/hypnatiq-network-observatory/blob/main/LICENSE.md) and [SECURITY.md](https://github.com/hypnatiq/hypnatiq-network-observatory/blob/main/SECURITY.md).
+
