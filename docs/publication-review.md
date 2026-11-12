@@ -14,6 +14,7 @@
 
 The complete copied website source and excluded screenshots are stored only in the workspace archive for private review. They are not part of this repository.
 
-## Claim boundary
+## What the published evidence supports
 
 Use `designed`, `developed`, `documented`, or `tested` only where supported by current local evidence. Do not describe proposed work as implemented, an interface as installed behavior, or a safe test result as production validation.
+
